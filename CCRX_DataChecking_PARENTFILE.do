@@ -52,11 +52,11 @@ set maxvar 30000
 *******************************************************************************
 *BEFORE USE THE FOLLOWING NEED TO BE UPDATED:
 *Country/Round/Abbreviations
-global Country US	 
-global Round Round1
-global round 1
-global country US
-global CCRX USR1
+global Country NG	 
+global Round Round4
+global round 4
+global country NG
+global CCRX NGR4
 
 *Locals (Dont need to Update)
 local Country "$Country"
